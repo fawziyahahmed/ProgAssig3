@@ -26,5 +26,5 @@
 #### IF the order total is $100.01 to $150.00, the shipping cost will be $60.00
 #### IF the order total is over $150.00, the shipping cost will be free
 
-##How is it usefull?
+## How is it usefull?
 ### From this program, you will not only learn how to creat a shipping calculator, also how to use "if else" statement, I/O manipulators, Logical OR Operator, and make the program perform with either uppercase or lowercase text entry. 
